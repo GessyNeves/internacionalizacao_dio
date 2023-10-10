@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Internacionalizacao_dio" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
